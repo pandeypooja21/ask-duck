@@ -1,4 +1,4 @@
-#🐥 Ask Duck - How Much Time you Wasted
+# 🐥 Ask Duck - How Much Time you Wasted
 
 ## A Simple Lightweight HTML,CSS and JavaScript project- just brushing off js by making cute and simple projects 
 #💡 What is this?
